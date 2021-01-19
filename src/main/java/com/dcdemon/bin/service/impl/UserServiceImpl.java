@@ -1,8 +1,9 @@
-package com.bin.service.impl;
+package com.dcdemon.bin.service.impl;
 
-import com.bin.service.UserService;
+import com.dcdemon.bin.service.UserService;
 
 public class UserServiceImpl implements UserService {
+
     @Override
     public void insert() {
         System.out.println("insert");

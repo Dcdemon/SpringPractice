@@ -1,4 +1,4 @@
-package com.bin.service.impl;
+package com.dcdemon.bin.service.impl;
 
 import org.springframework.aop.MethodBeforeAdvice;
 
