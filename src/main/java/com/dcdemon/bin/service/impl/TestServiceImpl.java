@@ -14,5 +14,7 @@ public class TestServiceImpl implements ITestService {
     @Override
     public void print() {
         testDao.daoPrint();
+        int i = 0;
+        int a = 10 / i;
     }
 }
